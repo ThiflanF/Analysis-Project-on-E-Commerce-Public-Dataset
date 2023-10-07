@@ -12,7 +12,7 @@ pip install numpy pandas scipy matplotlib seaborn streamlit babel
 
 ## Run steamlit app
 ```
-streamlit run Streamlit_proyek_Dicoding.py
+streamlit run Dashboard_ecommerce.py
 ```
 
 Screenshot:
